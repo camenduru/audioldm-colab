@@ -2,7 +2,7 @@
 
 ## 🦒 Colab 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/audioldm-colab/blob/main/audioldm-colab)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/audioldm-colab/blob/main/audioldm-colab.ipynb)
 
 ## 🤗 Hugging Face 
 
